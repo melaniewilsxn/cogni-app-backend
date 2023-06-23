@@ -1,94 +1,46 @@
 {
-  "tutors": [
+  "testimonials": [
     {
       "id": 1,
-      "name": "Emily Anderson",
-      "email": "emily.anderson@cognitutoring.com",
-      "subject": "Mathematics",
-      "grade": "High school",
-      "fun_fact": "Emily is a competitive chess player and has won several local tournaments.",
-      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+      "first_name": "Emily",
+      "last_initial": "M",
+      "testimonial": "Cogni has been a game-changer for my son's academic journey. The personalized attention and expert guidance he receives from his tutor have significantly boosted his confidence and grades. I'm impressed with the professionalism and commitment of the Cogni team. Highly recommended!",
     },
     {
       "id": 2,
-      "name": "Joshua Parker",
-      "email": "joshua.parker@cognitutoring.com",
-      "subject": "English Literature",
-      "grade": "Middle school",
-      "fun_fact": "Joshua is a published poet and has written a collection of haikus.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+      "first_name": "David",
+      "last_initial": "T",
+      "testimonial": "Thanks to Cogni, I went from struggling with math to acing my exams. The tutors are patient, knowledgeable, and genuinely care about my progress. The personalized learning plan and interactive lessons have made a huge difference. I couldn't be happier!",
     },
     {
       "id": 3,
-      "name": "Olivia Turner",
-      "email": "olivia.turner@cognitutoring.com",
-      "subject": "Science",
-      "grade": "Elementary school",
-      "fun_fact": "Olivia volunteers at a local animal shelter and loves taking care of stray cats.",
-      "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+      "first_name": "Sarah",
+      "last_initial": "K",
+      "testimonial": "Cogni has exceeded my expectations in every way. The dedicated tutors not only helped me improve my grades but also ignited my love for learning. Their support and encouragement have been invaluable. I'm grateful to Cogni for transforming my educational experience.",
     },
     {
       "id": 4,
-      "name": "Ethan Carter",
-      "email": "ethan.carter@cognitutoring.com",
-      "subject": "History",
-      "grade": "High school",
-      "fun_fact": "Ethan has visited over 15 countries and loves learning about different cultures.",
-      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+      "first_name": "Mark",
+      "last_initial": "W",
+      "testimonial": "I can't thank Cogni enough for the remarkable progress my daughter has made. The tutor's expertise and customized approach have turned her academic struggles into strengths. Her confidence has soared, and she now enjoys learning. Cogni is truly a lifesaver!",
     },
     {
       "id": 5,
-      "name": "Sophia Walker",
-      "email": "sophia.walker@cognitutoring.com",
-      "subject": "Spanish",
-      "grade": "Middle school",
-      "fun_fact": "Sophia is fluent in three languages and enjoys learning new ones in her spare time.",
-      "image": "https://images.unsplash.com/photo-1558898479-33c0057a5d12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+      "first_name": "Jennifer",
+      "last_initial": "L",
+      "testimonial": "Cogni's personalized tutoring has made a world of difference for my son. The tutor's ability to explain complex concepts in a simple manner has helped him grasp difficult subjects. The progress monitoring and regular feedback have kept us informed. We're thrilled with the results!",
     },
     {
       "id": 6,
-      "name": "Benjamin Lewis",
-      "email": "benjamin.lewis@cognitutoring.com",
-      "subject": "Computer Science",
-      "grade": "High school",
-      "fun_fact": "Benjamin is a skilled programmer and has developed his own mobile app.",
-      "image": "https://images.unsplash.com/photo-1628157588553-5eeea00af15c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2960&q=80"
+      "first_name": "Daniel",
+      "last_initial": "H",
+      "testimonial": "The tutors at Cogni are phenomenal! Their deep knowledge of the subject matter and commitment to my success have made a huge impact. The interactive learning tools and engaging lessons have made studying enjoyable. Cogni is hands down the best tutoring service out there.",
     },
     {
       "id": 7,
-      "name": "Ava Richardson",
-      "email": "ava.richardson@cognitutoring.com",
-      "subject": "French",
-      "grade": "Middle school",
-      "fun_fact": "Ava is a talented ballet dancer and performs in local dance recitals.",
-      "image": "https://images.unsplash.com/photo-1631168228401-c37875b22ee8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
-    },
-    {
-      "id": 8,
-      "name": "Matthew Patel",
-      "email": "matthew.patel@cognitutoring.com",
-      "subject": "Geography",
-      "grade": "Elementary school",
-      "fun_fact": "Matthew has a passion for traveling and has visited all 50 states in the US.",
-      "image": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
-    },
-    {
-      "id": 9,
-      "name": "Lily Cooper",
-      "email": "lily.cooper@cognitutoring.com",
-      "subject": "Music",
-      "grade": "Middle school",
-      "fun_fact": "Lily plays the violin in a local orchestra and has won several music competitions.",
-      "image": "https://images.unsplash.com/photo-1632333529860-9547b472738c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
-    },
-    {
-      "id": 10,
-      "name": "Daniel Ramirez",
-      "email": "daniel.ramirez@cognitutoring.com",
-      "subject": "Algebra",
-      "grade": "High school",
-      "fun_fact": "Daniel is a skilled Rubik's Cube solver and can solve it in under one minute.",
-      "image": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+      "first_name": "Lisa",
+      "last_initial": "R",
+      "testimonial": "I was struggling with time management and study skills until I joined Cogni. The tutor's guidance and strategies have transformed my approach to learning. I'm now organized, focused, and achieving my academic goals. Thank you, Cogni, for empowering me to excel!",
     }
   ]
 }
