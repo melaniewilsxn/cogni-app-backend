@@ -46,7 +46,8 @@
   "tutors": [
     {
       "id": 1,
-      "name": "Emily Anderson",
+      "first_name": "Emily",
+      "last_name": "Anderson",
       "email": "emily.anderson@cognitutoring.com",
       "subject": "Mathematics",
       "grade": "High school",
@@ -55,7 +56,8 @@
     },
     {
       "id": 2,
-      "name": "Joshua Parker",
+      "first_name": "Joshua",
+      "last_name": "Parker",
       "email": "joshua.parker@cognitutoring.com",
       "subject": "English Literature",
       "grade": "Middle school",
@@ -64,7 +66,8 @@
     },
     {
       "id": 3,
-      "name": "Olivia Turner",
+      "first_name": "Olivia",
+      "last_name": "Turner",
       "email": "olivia.turner@cognitutoring.com",
       "subject": "Science",
       "grade": "Elementary school",
@@ -73,7 +76,8 @@
     },
     {
       "id": 4,
-      "name": "Ethan Carter",
+      "first_name": "Ethan",
+      "last_name": "Carter",
       "email": "ethan.carter@cognitutoring.com",
       "subject": "History",
       "grade": "High school",
@@ -82,7 +86,8 @@
     },
     {
       "id": 5,
-      "name": "Sophia Walker",
+      "first_name": "Sophia",
+      "last_name": "Walker",
       "email": "sophia.walker@cognitutoring.com",
       "subject": "Spanish",
       "grade": "Middle school",
@@ -91,7 +96,8 @@
     },
     {
       "id": 6,
-      "name": "Benjamin Lewis",
+      "first_name": "Benjamin",
+      "last_name": "Lewis",
       "email": "benjamin.lewis@cognitutoring.com",
       "subject": "Computer Science",
       "grade": "High school",
@@ -100,7 +106,8 @@
     },
     {
       "id": 7,
-      "name": "Ava Richardson",
+      "first_name": "Ava",
+      "last_name": "Richardson",
       "email": "ava.richardson@cognitutoring.com",
       "subject": "French",
       "grade": "Middle school",
@@ -109,7 +116,8 @@
     },
     {
       "id": 8,
-      "name": "Matthew Patel",
+      "first_name": "Matthew",
+      "last_name": "Patel",
       "email": "matthew.patel@cognitutoring.com",
       "subject": "Geography",
       "grade": "Elementary school",
@@ -118,7 +126,8 @@
     },
     {
       "id": 9,
-      "name": "Lily Cooper",
+      "first_name": "Lily",
+      "last_name": "Cooper",
       "email": "lily.cooper@cognitutoring.com",
       "subject": "Music",
       "grade": "Middle school",
@@ -127,7 +136,8 @@
     },
     {
       "id": 10,
-      "name": "Daniel Ramirez",
+      "first_name": "Daniel",
+      "last_name": "Ramirez",
       "email": "daniel.ramirez@cognitutoring.com",
       "subject": "Algebra",
       "grade": "High school",
