@@ -53,7 +53,7 @@
       "grade": "Elementary school",
       "fun_fact": "Emily is a competitive chess player and has won several local tournaments.",
       "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-      "filter": "math"
+      "category": "math"
     },
     {
       "id": 2,
@@ -64,7 +64,7 @@
       "grade": "High school",
       "fun_fact": "Joshua is a published poet and has written a collection of haikus.",
       "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-      "filter": "humanities"
+      "category": "humanities"
     },
     {
       "id": 3,
@@ -75,7 +75,7 @@
       "grade": "High school",
       "fun_fact": "Olivia volunteers at a local animal shelter and loves taking care of stray cats.",
       "image": "https://images.unsplash.com/photo-1586522434115-38d718beeca5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-      "filter": "science"
+      "category": "science"
     },
     {
       "id": 4,
@@ -86,7 +86,7 @@
       "grade": "Middle school",
       "fun_fact": "Ethan has visited over 15 countries and loves learning about different cultures.",
       "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-      "filter": "humanities"
+      "category": "humanities"
     },
     {
       "id": 5,
@@ -97,7 +97,7 @@
       "grade": "Middle school",
       "fun_fact": "Sophia is fluent in three languages and enjoys learning new ones in her spare time.",
       "image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-      "filter": "language"
+      "category": "language"
     },
     {
       "id": 6,
@@ -108,7 +108,7 @@
       "grade": "High school",
       "fun_fact": "Benjamin is a skilled programmer and has developed his own mobile app.",
       "image": "https://images.unsplash.com/photo-1639747280804-dd2d6b3d88ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-      "filter": "math"
+      "category": "math"
     },
     {
       "id": 7,
@@ -119,7 +119,7 @@
       "grade": "Middle school",
       "fun_fact": "Ava is a talented ballet dancer and performs in local dance recitals.",
       "image": "https://images.unsplash.com/photo-1631168228401-c37875b22ee8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-      "filter": "language"
+      "category": "language"
     },
     {
       "id": 8,
@@ -130,7 +130,7 @@
       "grade": "Elementary school",
       "fun_fact": "Matthew has a passion for traveling and has visited all 50 states in the US.",
       "image": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=778&q=80",
-      "filter": "science"
+      "category": "science"
     },
     {
       "id": 9,
@@ -141,7 +141,7 @@
       "grade": "Middle school",
       "fun_fact": "Lily plays the violin in a local orchestra and has won several music competitions.",
       "image": "https://images.unsplash.com/photo-1632333529860-9547b472738c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-      "filter": "humanities"
+      "category": "humanities"
     },
     {
       "id": 10,
@@ -152,7 +152,7 @@
       "grade": "High school",
       "fun_fact": "Daniel is a skilled Rubik's Cube solver and can solve it in under one minute.",
       "image": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-      "filter": "math"
+      "category": "math"
     }
   ]
 }
